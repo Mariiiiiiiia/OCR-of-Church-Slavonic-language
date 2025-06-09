@@ -1,0 +1,7 @@
+fastapi
+asyncpg
+aiokafka
+aiomultiprocess
+opencv-python
+ultralytics
+ #pip install -r requirements.txt

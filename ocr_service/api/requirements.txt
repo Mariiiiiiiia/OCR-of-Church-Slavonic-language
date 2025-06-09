@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+asyncpg
+minio
+aiokafka
+ #pip install -r requirements.txt

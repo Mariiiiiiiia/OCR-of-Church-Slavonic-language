@@ -1,0 +1,5 @@
+asyncpg
+aiokafka
+aiomultiprocess
+opencv-python
+ #pip install -r requirements.txt

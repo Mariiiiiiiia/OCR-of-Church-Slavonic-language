@@ -1,0 +1,3 @@
+asyncpg
+aiokafka
+ #pip install -r requirements.txt
